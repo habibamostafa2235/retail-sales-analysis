@@ -36,11 +36,11 @@ The dashboard provides interactive insights into:
 
 ### Executive Overview
 
-![Executive Overview](Images/executive-overview.png)
+![Executive Overview](Images/Screenshot(501).png)
 
 ### Sales & Product Analysis
 
-![Sales](Images/sales-analysis.png)
+![Sales](Images/)
 
 ### Customer & Regional Analysis
 
