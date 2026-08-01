@@ -31,27 +31,6 @@ The dashboard provides interactive insights into:
 - Business Insights
 
 ---
-
-## 📷 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Images/Screenshot(501).png)
-
-### Sales & Product Analysis
-
-![Sales](Images/)
-
-### Customer & Regional Analysis
-
-![Customer](Images/customer-regional.png)
-
-### Business Insights
-
-![Insights](Images/insights.png)
-
----
-
 ## 📂 Project Files
 
 - Retail Sales Analysis.pbix
