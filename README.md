@@ -2,7 +2,7 @@
 
 An interactive, 5-page Power BI dashboard that analyzes retail sales performance across the USA, Mexico and Canada (1997–1998). It covers revenue, products, customers, and ends with data-backed recommendations for management.
 
-![Overview](screenshots/02-overview.png)
+![Overview](Images/Overview.png)
 
 ## Business questions
 - How are revenue, profit and orders performing, and how do they change month over month?
