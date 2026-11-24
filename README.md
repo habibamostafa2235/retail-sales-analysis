@@ -38,8 +38,8 @@ An interactive, 5-page Power BI dashboard that analyzes retail sales performance
 ## Screenshots
 | | |
 |---|---|
-| ![Products](screenshots/03-products.png) | ![Customers](screenshots/04-customers.png) |
-| ![Insights](screenshots/05-insights.png) | ![Home](screenshots/01-home.png) |
+| ![Products](/Images/Products.png) | ![Customers](/Images/Customer.png) |
+| ![Insights](/Images/insghte.png) | ![Home](/Images/Home.png) |
 
 ## Tools and skills
 - **Power BI**: data modeling, interactive visuals, buttons, bookmarks, page navigation
@@ -67,4 +67,4 @@ Retail-Sales-Dashboard/
 
 ## Author
 **Habiba Mostafa**: Business Information Systems student and aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/habiba-mostafa-144043327/) · [GitHub](https://github.com/habibamostafa2235)
